@@ -1,5 +1,5 @@
 
-                  click to see landing page                        https://hariomdwivedi92.github.io/First-Project/
+                       https://hariomdwivedi92.github.io/First-Project/
 
 # 🗡️ Demon Slayer Website
 
